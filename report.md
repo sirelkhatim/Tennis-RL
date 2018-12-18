@@ -4,7 +4,7 @@ In order to train the network I used the following parameters:
 
 # Parameters
 
-BUFFER_SIZE = int(1e5)  
+BUFFER_SIZE = int(1e5)    
 which is the replay buffer size
 BATCH_SIZE = 128  
 which is the batch size
